@@ -1,0 +1,15 @@
+Description: App được dùng theo hướnng người dùng, dùng để có thể đặt lịch trình cho chuyến du lịch bao gồm: di chuyển, ăn, ở. Bên cạnh đó có thể kèm thêm các dịch vụ kết hợp như đặt vé đến các kdl, khu nghỉ dưỡng, trung tâm vui chơi giải trí, các tour trọn gói của các cty du lịch
+
+Main Function: 
+	Log in/out
+	Book flight/train/coach/hotel in advance follow user choice (self-sufficient), book tour (travel agency provide infomation about route, place, food, price)
+	Information about flight/train/coach(time/place); place(price per night)
+	Booking History 
+	User info
+	Search (return info about the place in search bar)
+	Comment of previous user
+Adding function:
+	Articles about tourism
+	Promotion information 
+	Tourist places
+	Car rental

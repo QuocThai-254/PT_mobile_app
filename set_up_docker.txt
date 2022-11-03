@@ -1,0 +1,2 @@
+B1: Tải docker từ web browser, set up chạy các lệnh trong getting started của Docker Desktop: clone, build, run
+B2: Đọc getting started 

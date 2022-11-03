@@ -1,0 +1,6 @@
+count = 0
+rl.on('line',(ans) => {
+	if(count == 0){
+		n,m = line.split(' ')
+	}
+})

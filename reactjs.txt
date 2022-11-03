@@ -1,0 +1,10 @@
+ios
+
+
+	native component
+android
+
+sử dụng thư viện expo trên nodejs có thể chạy trên trình duyệt,còn với mini thì chạy trên di động
+
+npx create-expo-app AwesomePJ
+thông qua expo go app trên dt
